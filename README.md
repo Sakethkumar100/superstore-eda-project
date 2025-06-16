@@ -15,5 +15,5 @@ A data analytics project using Python (pandas, seaborn, matplotlib) to extract i
 - West region brings the most profit.
 
 ## 📁 Files
-- `superstore_data_analysis.ipynb` — Main notebook
-- `superstore.csv` — Dataset
+- [Superstore_Sales_EDA.ipynb](Superstore_Sales_EDA.ipynb) — Main notebook  
+- [superstore.csv](superstore.csv) — Dataset
