@@ -1,1 +1,19 @@
 # superstore-eda-project
+# Superstore Sales & Profit Analysis 📊
+
+A data analytics project using Python (pandas, seaborn, matplotlib) to extract insights from a real-world sales dataset.
+
+## 📌 Skills Used
+- Data Cleaning & Wrangling
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Correlation Analysis
+
+## 🔍 Key Insights
+- High discounts reduce profit.
+- Technology is the most profitable category.
+- West region brings the most profit.
+
+## 📁 Files
+- `superstore_data_analysis.ipynb` — Main notebook
+- `superstore.csv` — Dataset
